@@ -10,9 +10,10 @@ a site for javascript games!
  |J|a|v|a|G|a|m|e|s|
  +-+-+-+-+-+-+-+-+-+
   
-  (*-*) .
- /(___)/
-  _/ \_ 
+ it kinda ennoys me that ASCII doesnt show up here that well...
+ 
+ 
+ oh well...
 
 -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
  lorum ipsum lorum ipsum lorum ipsum lorum ipsum lorum ipsum
